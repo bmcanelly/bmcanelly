@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm [Bret Ellis](https://bmcanelly.github.io/#/) 👋
 
 
-💬 Ask me about anything<br>
+💬 Ask<br>
 
 
 <p>&nbsp;</p>
